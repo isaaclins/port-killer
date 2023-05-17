@@ -24,4 +24,4 @@ You can download the script by clicking the "Raw" button at the top of the code 
 
 Alternatively, you can clone this repository to your local machine using the following command in a Git command prompt:
 
-`git clone https://github.com/rottenshorts/portkiller.git`
+`git clone https://github.com/isaaclins/port-killer.git`
