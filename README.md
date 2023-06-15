@@ -25,3 +25,7 @@ You can download the script by clicking the "Raw" button at the top of the code 
 Alternatively, you can clone this repository to your local machine using the following command in a Git command prompt:
 
 `git clone https://github.com/isaaclins/port-killer.git`
+
+
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fisaaclins%2Fport-killer&label=VISITORS%3A&labelColor=%230d1117&countColor=%230d1117)
